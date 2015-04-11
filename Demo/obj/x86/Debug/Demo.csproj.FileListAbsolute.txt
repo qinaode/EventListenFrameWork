@@ -1,0 +1,11 @@
+C:\DotNet\Study\数据库变化监听\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\DotNet\Study\数据库变化监听\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\DotNet\Study\数据库变化监听\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\DotNet\Study\数据库变化监听\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+C:\DotNet\Study\数据库变化监听\Demo\bin\Debug\Demo.exe.config
+C:\DotNet\Study\数据库变化监听\Demo\bin\Debug\Demo.exe
+C:\DotNet\Study\数据库变化监听\Demo\bin\Debug\Demo.pdb
+C:\DotNet\Study\数据库变化监听\Demo\bin\Debug\ZK.EventFrameWork.dll
+C:\DotNet\Study\数据库变化监听\Demo\bin\Debug\ZK.EventFrameWork.pdb
+C:\DotNet\Study\数据库变化监听\Demo\obj\x86\Debug\Demo.exe
+C:\DotNet\Study\数据库变化监听\Demo\obj\x86\Debug\Demo.pdb

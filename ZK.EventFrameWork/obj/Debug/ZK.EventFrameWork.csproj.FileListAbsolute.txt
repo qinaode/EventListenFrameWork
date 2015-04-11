@@ -1,0 +1,4 @@
+C:\DotNet\Study\数据库变化监听\ZK.EventFrameWork\bin\Debug\ZK.EventFrameWork.dll
+C:\DotNet\Study\数据库变化监听\ZK.EventFrameWork\bin\Debug\ZK.EventFrameWork.pdb
+C:\DotNet\Study\数据库变化监听\ZK.EventFrameWork\obj\Debug\ZK.EventFrameWork.dll
+C:\DotNet\Study\数据库变化监听\ZK.EventFrameWork\obj\Debug\ZK.EventFrameWork.pdb
